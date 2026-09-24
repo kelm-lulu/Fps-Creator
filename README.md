@@ -213,4 +213,4 @@ FPS Creator is available as a complete free version, with all features and updat
 Ready to create your own FPS masterpiece? Download FPS Creator now and start your game development adventure today!
 
 ---
-**Last updated:** 2026-09-23 23:18:39 UTC
+**Last updated:** 2026-09-24 02:07:00 UTC
